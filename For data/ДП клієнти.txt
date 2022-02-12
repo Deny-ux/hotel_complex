@@ -1,0 +1,11 @@
+1	ланч	05.05.2021	name2	surname2
+1	ланч	05.05.2021	name2	surname2
+1	басейн	05.05.2021	name2	surname2
+1	басейн	05.05.2021	name3	surname3
+1	настiльний тенiс	05.05.2021	name3	surname3
+1	настiльний тенiс	05.05.2021	name5	surname3
+1	бiль€рд	05.05.2021	name5	surname3
+1	бiль€рд	05.05.2021	name5	surname3
+1	бiль€рд	31.05.2021	name5	surname3
+1	настiльний тенiс	05.05.2021	name5	surname3
+1	настiльний тенiс	05.05.2021	name5	surname3
